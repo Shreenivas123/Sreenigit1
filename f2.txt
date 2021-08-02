@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "enter the name of the script "
+touch read line
+
